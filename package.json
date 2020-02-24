@@ -1,5 +1,4 @@
 {
-  "homepage": "http://alexz429.github.io",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -14,8 +13,6 @@
     "react-scripts": "3.4.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
